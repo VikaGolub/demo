@@ -1,0 +1,25 @@
+.nav {
+    background: rgb(164, 125,158);
+    width: 350px;
+    float: left;
+    height: 1700px;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    background:  rgb(164, 125,158);
+    letter-spacing: 1px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.nav ul li:hover a{
+    background: rgb(158, 164, 131);
+}

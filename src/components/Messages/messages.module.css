@@ -1,0 +1,28 @@
+.listOfDialogues {
+    float: left;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+.dialogue {
+    display: block;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.messages {
+    float: left;
+}
+
+textarea {
+    margin-top: 10px;
+    margin-left: -5px;
+    padding: 5px;
+    font-family: Gadugi;
+    font-size: 15px;
+}
+
+button {
+    background: rgb(147, 168, 54);
+    border: 2px solid black;
+}

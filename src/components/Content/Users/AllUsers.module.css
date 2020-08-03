@@ -1,0 +1,25 @@
+.profile {
+    margin-left: 10px;
+    background: crimson;
+}
+
+.imgAndBtn img {
+    height: 170px;
+    width: 170px;
+}
+
+.imgAndBtn button {
+    width: 150px;
+    border: forestgreen;
+}
+
+.numOfPages {
+    box-sizing: border-box;
+    display: flex;
+}
+
+.bold {
+    font-weight: bold;
+    padding: 2px;
+}
+

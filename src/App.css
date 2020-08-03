@@ -1,0 +1,17 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(226, 233, 236);
+}
+
+.main {
+  font-size: 20px;
+}
+
+.navandcontent {
+  width: 1500px;
+  height: 1500px;
+}
+
+

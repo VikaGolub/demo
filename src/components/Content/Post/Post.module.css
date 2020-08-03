@@ -1,0 +1,35 @@
+.post {
+    position: relative;
+    min-height: 85px;
+    width: 80%;
+    clear: both;
+    border: 2px solid steelblue;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.posPicture {
+    position: absolute;
+    left: 3px;
+    top: 3px;
+}
+
+.msg_likes {
+    position: absolute;
+    top: 2px;
+    left: 85px;
+    bottom: 2px;
+    background: green;
+}
+
+.profilePic img {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    float: left;
+    margin-bottom: -5px;
+}
+
+.like {
+    margin-top: 20px;
+}
